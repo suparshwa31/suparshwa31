@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Building AI, One Token at a Time<br>Hey there! I'm Suparshwa, an ML Engineer & Researcher, constantly tinkering with transformers, sensor fusion, and deep learning architectures.<br><br>🔍 Exploring adaptive attention mechanisms to improve model efficiency<br>🤖 Building ML models that power autonomous systems & AI applications<br>📈 Optimizing neural networks for speed, accuracy, and generalization<br>🛠 Current Experiments:<br>⚡ Improving transfer learning via parallel encoders & dynamic loss-based activation<br>🚗 Enhancing multi-modal perception for autonomous navigation
+I care about the gap between AI that works in a notebook and AI that works in production. Currently building RAG systems and LLM-powered backends, focused on retrieval quality, latency, and reliability at scale. Background in backend engineering at Capgemini and ML research at Purdue. Always thinking about what makes inference actually fast and systems actually resilient.
 
 
 ## 🌐 Socials:
